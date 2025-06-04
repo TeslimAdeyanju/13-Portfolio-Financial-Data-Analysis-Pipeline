@@ -1,4 +1,4 @@
-# Financial Data Analysis Pipeline
+# Financial Data Analysis Pipeline: From API to Automated Insights
 
 ## Project Overview
 This is my roadmap project where I aim to design and build an end-to-end financial data pipeline. The pipeline will cover sourcing financial data, cleaning and engineering features, applying statistical models, simulating trading strategies, and deploying the solution with automation. I’m using this to sharpen my skills in financial data analysis, automation, and modeling using Python and modern data engineering tools.
