@@ -131,3 +131,11 @@ dmypy.json
 # VS code
 .vscode
 .DS_Store
+
+# Ignore Excel data files
+data.xlsx
+# Ignore CSV data files
+data.csv
+# Ignore JSON data files
+data.json
+# Ignore log files
